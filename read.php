@@ -17,8 +17,6 @@ $mahasiswas = mysqli_query($conn, "SELECT * FROM mhs");
 </head>
 
 <body>
-a
-1
 
     <!-- Heading -->
     <div class="jumbotron jumbotron-fluid">
